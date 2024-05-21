@@ -16,7 +16,7 @@ Cloudflare Worker 可以用来处理 HTTP 请求，从而允许开发者通过�
 
    推荐在 Namesilo 进行购买，因为他的 WHOIS 隐私 是免费的，可以适当的进行一下隐私保护，而且域名还都挺便宜的。
 
-   购买地址：[点击访问](https://www.namesilo.com/?rid=6254266mw) （1.88刀/年 起）
+   购买地址：[点击访问](https://uvh.cc/namesilo)) （1.88刀/年 起）
 
 3. 托管域名到 Cloudflare
 
